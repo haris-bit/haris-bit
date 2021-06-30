@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - ⚡ Techthusiast
 
-
 ### More About Me
 - Creator of [Coding Cleverly](https://www.youtube.com/c/CodingCleverly)
 - [Codecademy Chapter Leader](https://community.codecademy.com/coding-cleverly/)
@@ -23,3 +22,26 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haris-bit)](https://github.com/haris-bit/github-readme-stats)
+
+
+---
+
+<div align="center">
+<p align="center">Let's Connect!</p>
+<a href="https://www.twitter.com/HarisIftikhar_/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/HarisIftikhar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/HarisIftikhar1/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/10482516/haris-iftikhar?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+<br>
