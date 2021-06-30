@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Haris! 👋
 
-<!--
-**haris-bit/haris-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Enthusiast | Undergraduate Student | Technophile
+<!-- **haris-bit/haris-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- Here are some ideas to get you started: -->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working to become a Full Stack Developer
+- 🌱 I’m currently learning Frontend Development and Backend Engineering
+- 🤔 Exploring AI and Data Science
+- 👯 I’m looking to collaborate with other content creators and developers
+- ⚡ Techthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### More About Me
+- Creator of [Coding Cleverly](https://www.youtube.com/c/CodingCleverly)
+- [Codecademy Chapter Leader](https://community.codecademy.com/coding-cleverly/)
+- [freeCodecamp Contributer](https://www.freecodecamp.org/news/understanding-sorting-algorithms/)
+
