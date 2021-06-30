@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - ⚡ Techthusiast
 
+---
 
 ### More About Me
 - Creator of [Coding Cleverly](https://www.youtube.com/c/CodingCleverly)
@@ -17,4 +18,5 @@
 - [freeCodecamp Contributer](https://www.freecodecamp.org/news/understanding-sorting-algorithms/)
 
 ---
+
 ![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris-bit&show_icons=true&theme=dark)
