@@ -17,9 +17,4 @@
 - [freeCodecamp Contributer](https://www.freecodecamp.org/news/understanding-sorting-algorithms/)
 
 ---
-
-[![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris-bit)](https://github.com/haris-bit/github-readme-stats)
-
-
----
 ![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris-bit&show_icons=true&theme=dark)
