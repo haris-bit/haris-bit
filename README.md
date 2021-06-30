@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - ⚡ Techthusiast
 
----
 
 ### More About Me
 - Creator of [Coding Cleverly](https://www.youtube.com/c/CodingCleverly)
