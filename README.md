@@ -1,5 +1,7 @@
 ## Hi there, I'm Haris! 👋
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ### Software Development Enthusiast | Undergraduate Student | Technophile
 <!-- **haris-bit/haris-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
@@ -9,8 +11,6 @@
 - 🤔 Exploring AI and Data Science
 - 👯 I’m looking to collaborate with other content creators and developers
 - ⚡ Techthusiast
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### More About Me
 - Creator of [Coding Cleverly](https://www.youtube.com/c/CodingCleverly)
