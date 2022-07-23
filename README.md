@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - ⚡ Techthusiast
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ### More About Me
 - Creator of [Coding Cleverly](https://www.youtube.com/c/CodingCleverly)
 - [Codecademy Chapter Leader](https://community.codecademy.com/coding-cleverly/)
