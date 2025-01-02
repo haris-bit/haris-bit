@@ -6,7 +6,7 @@
 <!-- **haris-bit/haris-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working to become a Full Stack Developer
+- 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning Frontend Development and Backend Engineering
 - 🤔 Exploring AI and Data Science
 - 👯 I’m looking to collaborate with other content creators and developers
